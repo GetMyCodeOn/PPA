@@ -63,7 +63,7 @@ html * {
 .billboard2{
     width: 100%;
     height: 2000px;
-    background: url("https://i.imgur.com/s2H9x2C.jpg") no-repeat center center;
+/*     background: url("https://i.imgur.com/s2H9x2C.jpg") no-repeat center center; */
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -105,7 +105,7 @@ html * {
 }
 
 .contact .caption{
-    margin-left: 515px;
+    margin-left: 200px;
     margin-top: 220px;
 }
 
@@ -129,6 +129,37 @@ html * {
 
     
     display: inline;
+}
+
+
+
+.partner{
+    width: 100%;
+    height: 1300px;
+    background: url("http://i.imgur.com/JB5Lztg.jpg") no-repeat center center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    overflow: hidden;
+}
+
+.partner .caption{
+    margin-left: 0px;
+    margin-top: 220px;
+}
+
+.partner .caption p{
+    display: inline-block;
+    color: #000;
+    font-family: "avantgardelt-extralight", arial;
+    font-weight: lighter;
+    font-size: 35px;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.6);
+    margin-bottom: 2px;
+    text-transform: uppercase;
+    z-index: 8888;
 }
 
 
