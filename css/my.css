@@ -92,7 +92,7 @@ html * {
 .billboard2{
     width: 100%;
     height: 2000px;
-    background: url("https://i.imgur.com/s2H9x2C.jpg") no-repeat center center;
+    background: url("") no-repeat center center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
