@@ -2,15 +2,23 @@ body {
     padding-top: 40px;
 }
 
+------
 
+.col-md-offset-2 {
+  margin-left:5%
+}
+
+.col-md-8 {
+  width:10%
+}
 
 /*  Indenting text of PPA on intro page*/
 
-.indent{
+/* .indent{
 
   margin:0;
 }
-
+ */
 /* End of indent */
 
 .navbar {
