@@ -27,3 +27,14 @@ body {
     left: 0;
     visibility: hidden;
 }
+
+
+/*  Indenting text of PPA on intro page*/
+
+.col-md-offset-2 {
+  margin left: 0;
+}
+
+.col-md-8 {
+  width: 0;
+}
