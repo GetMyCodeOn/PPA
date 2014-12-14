@@ -4,6 +4,16 @@ body {
 
 
 
+/*  Indenting text of PPA on intro page*/
+
+.indent{
+
+  text-align:left;
+  margin-left:0;
+}
+
+/* End of indent */
+
 .navbar {
     position: fixed;
     width: 100%;
@@ -28,11 +38,3 @@ body {
     visibility: hidden;
 }
 
-
-/*  Indenting text of PPA on intro page*/
-
-.indent{
-
-  text-align:left;
-  margin-left:0;
-}
