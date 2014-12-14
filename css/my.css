@@ -32,7 +32,6 @@ body {
 /*  Indenting text of PPA on intro page*/
 
 .indent{
-  margin left: 0;
-  width: 0;
+
   text-align:left;
 }
