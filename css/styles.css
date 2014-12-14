@@ -174,7 +174,7 @@ Global Styles
 a { color: #353535; -webkit-transition: all 0.5s; -moz-transition: all 0.5s; -o-transition: all 0.5s; transition: all 0.5s; }
 a:hover, a:focus { color: #3dc9b3; text-decoration: none; }
 p { color: grey; word-spacing: 1px; line-height: 25px; font-size: 14px; }
-p .pictoor {
+p pictoor {
   
   color: white;
 }
